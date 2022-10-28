@@ -10,4 +10,4 @@ Once the Express.js server is started with the seeded MySQL database, you can us
 
 In this walkthrough video, first I show the project's backend code and that it properly satisfies the technical acceptance criteria for everything server-side (models, API routes, Express.js and Sequelize functionality, etc.). Then, once I run the server, I use Insomnia to demonstrate that all the API routes work as intended and that data is properly stored and manipulated in the MySQL database.
 
-https://drive.google.com/file/d/183sLTPnkeoKM2F9EG30mUXH9k49JOm1T/view
+[E-Commerce Backend Walkthrough Video](https://drive.google.com/file/d/183sLTPnkeoKM2F9EG30mUXH9k49JOm1T/view)
